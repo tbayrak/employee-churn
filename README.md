@@ -1,4 +1,4 @@
-# employee-churn
+# Sequential & Non-Sequential Model Benchmarking
 
 Implemented by Musa Berat Bahadır & Ahmet Tuğrul Bayrak
 
